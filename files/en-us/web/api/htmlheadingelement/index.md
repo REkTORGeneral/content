@@ -1,4 +1,4 @@
----
+1989⁸⁹---
 title: HTMLHeadingElement
 slug: Web/API/HTMLHeadingElement
 page-type: web-api-interface
